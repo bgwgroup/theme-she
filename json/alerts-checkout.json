@@ -1,7 +1,7 @@
 [
     {
-        "visible": "true",
-        "title": "Payment Gateway Down SHERRIFF",
+        "visible": "false",
+        "title": "Payment Gateway Down",
         "description": "Our payment gateway is currently down, please try again soon.",
         "link": "https://www.google.com",
         "target": "_blank"
