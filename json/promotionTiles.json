@@ -2,7 +2,7 @@
   {
     "title": "Test fake ad",
     "ad-banner": "https://i.ibb.co/QjQFZDz/ad-banner.jpg",
-    "ad-scroll": "https://i.ibb.co/T46hSmC/ad-scroll.jpg",
+    "ad-banner-mobile": "https://i.ibb.co/QjQFZDz/ad-banner.jpg",
     "ad-square": "https://i.ibb.co/WpGK1bJ/ad-square.jpg",
     "url": "https://www.google.com"
   }
