@@ -1,0 +1,58 @@
+[
+   {
+      "title":"Switches & Sockets",
+      "subtitle":"Shop now",
+      "icon":"/_ui/responsive/common/images/category-icons/icon-switches-sockets.png",
+      "image":"https://source.unsplash.com/random/800x500/?animal",
+      "link":"#"
+   },
+  {
+      "title":"Air Movement",
+      "subtitle":"Shop now",
+      "icon":"/_ui/responsive/common/images/category-icons/icon-hvac.png",
+      "image":"https://source.unsplash.com/random/800x500/?animal",
+      "link":"#"
+   },
+  {
+      "title":"Lighting",
+      "subtitle":"Shop now",
+      "icon":"/_ui/responsive/common/images/category-icons/icon-lighting.png",
+      "image":"https://source.unsplash.com/random/800x500/?animal",
+      "link":"#"
+   },
+  {
+      "title":"Cable",
+      "subtitle":"Shop now",
+      "icon":"/_ui/responsive/common/images/category-icons/icon-cable-wire.png",
+      "image":"https://source.unsplash.com/random/800x500/?animal",
+      "link":"#"
+   },
+  {
+      "title":"Conduit & Fittings",
+      "subtitle":"Shop now",
+      "icon":"/_ui/responsive/common/images/category-icons/icon-conduit-fittings.png",
+      "image":"https://source.unsplash.com/random/800x500/?animal",
+      "link":"#"
+   },
+  {
+      "title":"Industrial",
+      "subtitle":"Shop now",
+      "icon":"/_ui/responsive/common/images/category-icons/icon-industrial.png",
+      "image":"https://source.unsplash.com/random/800x500/?animal",
+      "link":"#"
+   },
+  {
+      "title":"Installation",
+      "subtitle":"Shop now",
+      "icon":"/_ui/responsive/common/images/category-icons/icon-installation.png",
+      "image":"https://source.unsplash.com/random/800x500/?animal",
+      "link":"#"
+   },
+  {
+      "title":"Hardware & Consumables",
+      "subtitle":"Shop now",
+      "icon":"/_ui/responsive/common/images/category-icons/icon-hardware.png",
+      "image":"https://source.unsplash.com/random/800x500/?animal",
+      "link":"#"
+   }
+]
