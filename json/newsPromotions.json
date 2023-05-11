@@ -1,142 +1,142 @@
 [
-    {
-        "category": "category-promotion",
-        "date": "01 Jan",
-        "video": "true",
-        "title": "Promotion Article 1",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "image": "https://source.unsplash.com/random/700x500/?universe",
-        "link": "#",
-        "target": "_blank"
-    },
-    {
-        "category": "category-promotion",
-        "date": "01 Jan",
-        "video": "false",
-        "title": "Promotion Article 2",
-        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "image": "https://source.unsplash.com/random/700x500/?night+sky",
-        "link": "#",
-        "target": "_blank"
-    },
-    {
-        "category": "category-news",
-        "date": "01 Jan",
-        "video": "true",
-        "title": "News Article 1",
-        "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-        "image": "https://source.unsplash.com/random/700x500/?australia+animal",
-        "link": "#",
-        "target": "_blank"
-    },
-    {
-        "category": "category-news",
-        "date": "01 Jan",
-        "video": "false",
-        "title": "News Article 2",
-        "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "image": "https://source.unsplash.com/random/700x500/?australia+wildlife",
-        "link": "#",
-        "target": "_blank"
-    },
-    {
-        "category": "category-promotion",
-        "date": "01 Jan",
-        "video": "false",
-        "title": "Promotion Article 3",
-        "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
-        "image": "https://source.unsplash.com/random/700x500/?milkyway",
-        "link": "#",
-        "target": "_blank"
-    },
-    {
-        "category": "category-news",
-        "date": "01 Jan",
-        "video": "false",
-        "title": "News Article 3",
-        "text": "Nemo enim ipsam voluptatem quia voluptas.",
-        "image": "https://source.unsplash.com/random/700x500/?australia+kangaroo",
-        "link": "#",
-        "target": "_blank"
-    },
-    {
-        "category": "category-news",
-        "date": "01 Jan",
-        "video": "true",
-        "title": "News Article 4",
-        "text": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur",
-        "image": "https://source.unsplash.com/random/700x500/?australia+reptile",
-        "link": "#",
-        "target": "_blank"
-    },
-    {
-        "category": "category-promotion",
-        "date": "01 Jan",
-        "video": "true",
-        "title": "Promotion Article 4",
-        "text": "Vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.",
-        "image": "https://source.unsplash.com/random/700x500/?nebula",
-        "link": "#",
-        "target": "_blank"
-    },
-    {
-        "category": "category-promotion",
-        "date": "01 Jan",
-        "video": "true",
-        "title": "Promotion Article 5",
-        "text": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium.",
-        "image": "https://source.unsplash.com/random/700x500/?space",
-        "link": "#",
-        "target": "_blank"
-    },
-    {
-        "category": "category-news",
-        "date": "01 Jan",
-        "video": "true",
-        "title": "News Article 5",
-        "text": "Et harum quidem rerum facilis est et expedita distinctio.",
-        "image": "https://source.unsplash.com/random/700x500/?australia+sealife",
-        "link": "#",
-        "target": "_blank"
-    },
-    {
-        "category": "category-news",
-        "date": "01 Jan",
-        "video": "true",
-        "title": "News Article 6",
-        "text": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.",
-        "image": "https://source.unsplash.com/random/700x500/?australia+animal",
-        "link": "#",
-        "target": "_blank"
-    },
-    {
-        "category": "category-promotion",
-        "date": "01 Jan",
-        "video": "false",
-        "title": "Promotion Article 6",
-        "text": "Itaque earum rerum hic tenetur a sapiente delectus.",
-        "image": "https://source.unsplash.com/random/700x500/?stars",
-        "link": "#",
-        "target": "_blank"
-    },
-    {
-        "category": "category-promotion",
-        "date": "01 Jan",
-        "video": "false",
-        "title": "Promotion Article 7",
-        "text": "Ut aut reiciendis voluptatibus maiores alias consequatur.",
-        "image": "https://source.unsplash.com/random/700x500/?astrophogoraphy",
-        "link": "#",
-        "target": "_blank"
-    },
-    {
-        "category": "category-news",
-        "date": "01 Jan",
-        "video": "true",
-        "title": "News Article 7",
-        "text": "Maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.",
-        "image": "https://source.unsplash.com/random/700x500/?australia+mammals",
-        "link": "#",
-        "target": "_blank"
-    }
+  {
+      "category": "category-promotion",
+      "date": "01 Jan",
+      "video": "true",
+      "title": "Promotion Article 1",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "https://source.unsplash.com/random/500x400/?universe",
+      "link": "#",
+      "target": "_blank"
+  },
+  {
+      "category": "category-promotion",
+      "date": "01 Jan",
+      "video": "false",
+      "title": "Promotion Article 2",
+      "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://source.unsplash.com/random/500x400/?night+sky",
+      "link": "#",
+      "target": "_blank"
+  },
+  {
+      "category": "category-news",
+      "date": "01 Jan",
+      "video": "true",
+      "title": "News Article 1",
+      "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "image": "https://source.unsplash.com/random/500x400/?australia+animal",
+      "link": "#",
+      "target": "_blank"
+  },
+  {
+      "category": "category-news",
+      "date": "01 Jan",
+      "video": "false",
+      "title": "News Article 2",
+      "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://source.unsplash.com/random/500x400/?australia+wildlife",
+      "link": "#",
+      "target": "_blank"
+  },
+  {
+      "category": "category-promotion",
+      "date": "01 Jan",
+      "video": "false",
+      "title": "Promotion Article 3",
+      "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+      "image": "https://source.unsplash.com/random/500x400/?milkyway",
+      "link": "#",
+      "target": "_blank"
+  },
+  {
+      "category": "category-news",
+      "date": "01 Jan",
+      "video": "false",
+      "title": "News Article 3",
+      "text": "Nemo enim ipsam voluptatem quia voluptas.",
+      "image": "https://source.unsplash.com/random/500x400/?australia+kangaroo",
+      "link": "#",
+      "target": "_blank"
+  },
+  {
+      "category": "category-news",
+      "date": "01 Jan",
+      "video": "true",
+      "title": "News Article 4",
+      "text": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur",
+      "image": "https://source.unsplash.com/random/500x400/?australia+reptile",
+      "link": "#",
+      "target": "_blank"
+  },
+  {
+      "category": "category-promotion",
+      "date": "01 Jan",
+      "video": "true",
+      "title": "Promotion Article 4",
+      "text": "Vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.",
+      "image": "https://source.unsplash.com/random/500x400/?nebula",
+      "link": "#",
+      "target": "_blank"
+  },
+  {
+      "category": "category-promotion",
+      "date": "01 Jan",
+      "video": "true",
+      "title": "Promotion Article 5",
+      "text": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium.",
+      "image": "https://source.unsplash.com/random/500x400/?space",
+      "link": "#",
+      "target": "_blank"
+  },
+  {
+      "category": "category-news",
+      "date": "01 Jan",
+      "video": "true",
+      "title": "News Article 5",
+      "text": "Et harum quidem rerum facilis est et expedita distinctio.",
+      "image": "https://source.unsplash.com/random/500x400/?australia+sealife",
+      "link": "#",
+      "target": "_blank"
+  },
+  {
+      "category": "category-news",
+      "date": "01 Jan",
+      "video": "true",
+      "title": "News Article 6",
+      "text": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.",
+      "image": "https://source.unsplash.com/random/500x400/?australia+animal",
+      "link": "#",
+      "target": "_blank"
+  },
+  {
+      "category": "category-promotion",
+      "date": "01 Jan",
+      "video": "false",
+      "title": "Promotion Article 6",
+      "text": "Itaque earum rerum hic tenetur a sapiente delectus.",
+      "image": "https://source.unsplash.com/random/500x400/?stars",
+      "link": "#",
+      "target": "_blank"
+  },
+  {
+      "category": "category-promotion",
+      "date": "01 Jan",
+      "video": "false",
+      "title": "Promotion Article 7",
+      "text": "Ut aut reiciendis voluptatibus maiores alias consequatur.",
+      "image": "https://source.unsplash.com/random/500x400/?northern+lights",
+      "link": "#",
+      "target": "_blank"
+  },
+  {
+      "category": "category-news",
+      "date": "01 Jan",
+      "video": "true",
+      "title": "News Article 7",
+      "text": "Maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.",
+      "image": "https://source.unsplash.com/random/500x400/?australia+mammals",
+      "link": "#",
+      "target": "_blank"
+  }
 ]
