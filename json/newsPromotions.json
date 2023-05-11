@@ -98,5 +98,45 @@
         "image": "https://source.unsplash.com/random/1920x1080/?australia+sealife",
         "link": "#",
         "target": "_blank"
+    },
+    {
+        "category": "category-news",
+        "date": "01 Jan",
+        "video": "true",
+        "title": "News Article 6",
+        "text": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.",
+        "image": "https://source.unsplash.com/random/1920x1080/?australia+animal",
+        "link": "#",
+        "target": "_blank"
+    },
+    {
+        "category": "category-promotion",
+        "date": "01 Jan",
+        "video": "false",
+        "title": "Promotion Article 6",
+        "text": "Itaque earum rerum hic tenetur a sapiente delectus.",
+        "image": "https://source.unsplash.com/random/1920x1080/?stars",
+        "link": "#",
+        "target": "_blank"
+    },
+    {
+        "category": "category-promotion",
+        "date": "01 Jan",
+        "video": "false",
+        "title": "Promotion Article 7",
+        "text": "Ut aut reiciendis voluptatibus maiores alias consequatur.",
+        "image": "https://source.unsplash.com/random/1920x1080/?astrophogoraphy",
+        "link": "#",
+        "target": "_blank"
+    },
+    {
+        "category": "category-news",
+        "date": "01 Jan",
+        "video": "true",
+        "title": "News Article 7",
+        "text": "Maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.",
+        "image": "https://source.unsplash.com/random/1920x1080/?australia+mammals",
+        "link": "#",
+        "target": "_blank"
     }
 ]
