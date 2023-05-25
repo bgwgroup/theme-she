@@ -1,0 +1,10 @@
+[
+    {
+        "visible": "true",
+        "icon": "info",
+        "title": "COVID-19:",
+        "description": "See the latest assessment and care options, plus temporary visitor restrictions.",
+        "link": "http://www.google.com",
+        "target": "_blank"
+    }
+]
