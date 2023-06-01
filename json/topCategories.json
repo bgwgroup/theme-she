@@ -1,58 +1,58 @@
 [
    {
-      "title":"Switches & Sockets",
-      "subtitle":"Shop now",
-      "icon":"/_ui/responsive/common/images/category-icons/icon-switches-sockets.png",
+      "title":"Switches & Sockets ",
+      "subtitle":"",
+      "icon":"",
       "image":"",
-      "link":"#"
+      "link":"/she/en/AUD/All-Categories/Switches-and-Sockets/Powerpoint/SOCKET-SW-HORIZ-TWIN-10A-250V/p/CLI3025VWH12"
    },
   {
-      "title":"Air Movement",
-      "subtitle":"Shop now",
-      "icon":"/_ui/responsive/common/images/category-icons/icon-hvac.png",
+      "title":"Smoke Alarm",
+      "subtitle":"",
+      "icon":"",
       "image":"",
-      "link":"#"
+      "link":"/she/en/AUD/All-Categories/Sound-and-Warning/Smoke-Alarm/10YR-LITHIUM-BATT-OPER-P-E-SMOKE-ALARM/p/CLI755LPSMA4M24"
    },
   {
       "title":"Lighting",
-      "subtitle":"Shop now",
-      "icon":"/_ui/responsive/common/images/category-icons/icon-lighting.png",
+      "subtitle":"",
+      "icon":"",
       "image":"",
-      "link":"#"
+      "link":"/she/en/AUD/All-Categories/Lighting/Downlight/HANECO-VIVA-LED-8W-FIXED-D-L-BUILTIN-DRI/p/HANVIVAFLTRIO02"
    },
   {
-      "title":"Cable",
-      "subtitle":"Shop now",
-      "icon":"/_ui/responsive/common/images/category-icons/icon-cable-wire.png",
+      "title":"Cable & Wire",
+      "subtitle":"",
+      "icon":"",
       "image":"",
-      "link":"#"
+      "link":"/she/en/AUD/All-Categories/Cable/Flats/CABLE-FLAT-2-5MM-TWIN-%26-EARTH/p/CBL2.5TEFA05"
+   },
+  {
+      "title":"Air Conditioning",
+      "subtitle":"",
+      "icon":"",
+      "image":"",
+      "link":"/she/en/AUD/All-Categories/Heating%2C-Ventilation-and-Cooling/Air-Conditioner/TEMPO-2-5-KW-HI-WALL-SPLIT-SYSTEM-R-C/p/HAIAS26TACHRA-SETE52"
+   },
+  {
+      "title":"Heating, Ventilation & Cooling",
+      "subtitle":"",
+      "icon":"",
+      "image":"",
+      "link":"/she/en/AUD/All-Categories/Heating%2C-Ventilation-and-Cooling/Ceiling-Fan/SPYDA-50IN-1250MM-FULL-MOULDED-PC-COMPOS/p/VENSPY1253NWHE01"
    },
   {
       "title":"Conduit & Fittings",
-      "subtitle":"Shop now",
-      "icon":"/_ui/responsive/common/images/category-icons/icon-conduit-fittings.png",
+      "subtitle":"",
+      "icon":"",
       "image":"",
-      "link":"#"
+      "link":"/she/en/AUD/All-Categories/Conduit/HD-Conduit/HD-CONDUIT-PVC-RIGID-32MM-ORANGE-4MTR/p/CDT9032HDC01"
    },
   {
-      "title":"Industrial",
-      "subtitle":"Shop now",
-      "icon":"/_ui/responsive/common/images/category-icons/icon-industrial.png",
+      "title":"Electrical Distribution",
+      "subtitle":"",
+      "icon":"",
       "image":"",
-      "link":"#"
-   },
-  {
-      "title":"Installation",
-      "subtitle":"Shop now",
-      "icon":"/_ui/responsive/common/images/category-icons/icon-installation.png",
-      "image":"",
-      "link":"#"
-   },
-  {
-      "title":"Hardware & Consumables",
-      "subtitle":"Shop now",
-      "icon":"/_ui/responsive/common/images/category-icons/icon-hardware.png",
-      "image":"",
-      "link":"#"
+      "link":"/she/en/AUD/All-Categories/Electrical-Distribution/Breakers/MCB-6KA-50A-1-POLE-1-MODULE/p/HAGMSN150I01"
    }
 ]
