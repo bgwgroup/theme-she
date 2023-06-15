@@ -1,29 +1,9 @@
 [
    {
-      "title":"Slide 1",
-      "subtitle":"Jan - May 2023",
-      "imgDesktop":"https://source.unsplash.com/random/1920x1080/?electrician",
-      "btnText":"Learn more",
-      "btnLink":"#"
-   },
-  {
-      "title":"Slide 2",
-      "subtitle":"Jan - May 2023",
-      "imgDesktop":"https://source.unsplash.com/random/1920x1080/?electrical",
-      "btnText":"Learn more",
-      "btnLink":"#"
-   },
-   {
-      "title":"Slide 3",
-      "subtitle":"Jan - May 2023",
-      "imgDesktop":"https://source.unsplash.com/random/1920x1080/?air-conditioner",
-      "btnText":"Learn more",
-      "btnLink":"#"
-   },
-   {
-      "title":"Slide 4",
-      "subtitle":"Jan - May 2023",
-      "imgDesktop":"https://source.unsplash.com/random/1920x1080/?wall+plug",
+      "title":"Integration HUB",
+      "subtitle":"Easier than ever!",
+      "imgDesktop":"",
+      "imgMobile":"",
       "btnText":"Learn more",
       "btnLink":"#"
    }
