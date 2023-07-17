@@ -77,10 +77,10 @@
       "link":"/All-Categories/Home-Automation/c/HOMEAUTOMATION"
    },
    {
-      "title":"Tools & Equipment",
-      "subtitle":"Shop now",
-      "icon":"",
-      "image":"https://i.ibb.co/Gv4qtH1/cnw-tc-home-tools-equipment.png",
-      "link":"/All-Categories/Tools-and-Test-Equipment/c/TOOLSANDTESTEQUIPMENT"
+      "title":"View All Categories",
+      "subtitle":"",
+      "icon":"search",
+      "image":"",
+      "link":"/All-Categories"
    }
 ]
