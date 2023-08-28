@@ -1,9 +1,8 @@
 [
   {
     "title": "Test fake ad",
-    "ad-banner": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/453a20167226153.642562a360d3c.png",
-    "ad-banner-mobile": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/d3d99c167226153.642562a35ca62.png",
-    "ad-square": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/b4c1f6167226153.642562a35b108.png",
+    "ad-desktop": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/453a20167226153.642562a360d3c.png",
+    "ad-mobile": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/d3d99c167226153.642562a35ca62.png",
     "url": "https://www.google.com"
   }
 ]
