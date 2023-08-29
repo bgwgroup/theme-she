@@ -1,8 +1,8 @@
 [
   {
-    "title": "Test fake ad",
-    "ad-desktop": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/453a20167226153.642562a360d3c.png",
-    "ad-mobile": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/d3d99c167226153.642562a35ca62.png",
-    "url": "https://www.google.com"
+    "title": "Tile 1",
+    "ad-desktop": "https://i.ibb.co/2KkZVx0/tile-desktop.jpg",
+    "ad-mobile": "https://i.ibb.co/Np3BRDJ/tile-mobile.jpg",
+    "url": "#"
   }
 ]
