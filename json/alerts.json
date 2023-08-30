@@ -1,9 +1,9 @@
 [
     {
-        "visible": "false",
+        "visible": "true",
         "icon": "info",
-        "title": "COVID-19:",
-        "description": "See the latest assessment and care options, plus temporary visitor restrictions.",
+        "title": "Test Alert",
+        "description": "Add useful text here..",
         "link": "http://www.google.com",
         "target": "_blank"
     }
