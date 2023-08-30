@@ -1,8 +1,8 @@
 [
     {
-        "visible": "false",
-        "title": "Payment Gateway Down",
-        "description": "Our payment gateway is currently down, please try again soon.",
+        "visible": "true",
+        "title": "Test Alert",
+        "description": "Add useful text here..",
         "link": "https://www.google.com",
         "target": "_blank"
     }
