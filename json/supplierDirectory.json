@@ -1,5 +1,6 @@
 [
   {
+    "id": "australian-plastic-profiles",
     "title": "Australian Plastic Profiles (APP)",
     "description": "AussieDuct is a key pillar of the larger Australian Plastic Profiles (APP) family, and an iconic brand in the Australian electrical products industry.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/australian-plastic-profiles.png",
@@ -8,6 +9,7 @@
     "website": "https://www.app.net.au/"
   },
   {
+    "id": "br-enclosures",
     "title": "B&R Enclosures",
     "description": "Electrical enclosures, server racks and cabinets, plastic boxes, climate control systems and switchboard building products from B&R Enclosures.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/br-enclosures.svg",
@@ -16,6 +18,7 @@
     "website": "https://www.brenclosures.com.au/"
   },
   {
+    "id": "brooks",
     "title": "Brooks",
     "description": "Wireless alarm interconnection enables smoke alarms to be connected to ... Brooks offer a range of solutions to suit a variety of building types and sizes.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/brooks.svg",
@@ -24,6 +27,7 @@
     "website": "https://www.brooks.com.au/"
   },
   {
+    "id": "burndy",
     "title": "Burndy",
     "description": "Pioneers of the original Laddertray systems, Burndy are considered by many to have established the benchmark for quality and performance in commercial construction applications.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/burndy.jpg",
@@ -32,6 +36,7 @@
     "website": "https://www.burndycss.com.au/"
   },
   {
+    "id": "cabac",
     "title": "Cabac",
     "description": "CABAC are an Australian leader in electrical products. We specialise in creating end-to-end solutions for the needs of any project across all sectors of the electrical industry.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/cabac.jpg",
@@ -40,6 +45,7 @@
     "website": "https://www.cabac.com.au/"
   },
   {
+    "id": "clevertronics",
     "title": "Clevertronics",
     "description": "Clevertronics has extensive experience across many different industries and applications. We specialise in emergency lighting to ensure the best solution is selected.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/clevertronics.png",
@@ -48,6 +54,7 @@
     "website": "https://clevertronics.com.au/"
   },
   {
+    "id": "clipsal",
     "title": "Clipsal",
     "description": "Clipsal supply innovative residential and commercial electrical products and solutions - Power points, switches, lighting, c-bus, smart home & more.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/clipsal.svg",
@@ -56,6 +63,7 @@
     "website": "https://www.clipsal.com/"
   },
   {
+    "id": "ezystrut",
     "title": "Ezystrut",
     "description": "Innovative Australian manufacturer of cable and pipe support components, offering you modern, leading-edge systems for managing building services.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/ezystrut.png",
@@ -64,6 +72,7 @@
     "website": "https://www.ezystrut.com.au/"
   },
   {
+    "id": "fantech",
     "title": "Fantech",
     "description": "Fantech has been at the forefront of fan and acoustics technology by developing and implementing new and innovative products for virtually every air movement and ventilation need, as well as noise attenuation.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/fantech.png",
@@ -72,6 +81,7 @@
     "website": "https://www.fantech.com.au/"
   },
   {
+    "id": "hager",
     "title": "Hager",
     "description": "Shaping the electrical world of the future is already proving to be a collective effort. To succeed in creating it means building it not just from an internal R&D perspective, but by including the thoughts and ideas of our partners, customers and colleagues.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/hager.png",
@@ -80,6 +90,7 @@
     "website": "https://hager.com/au"
   },
   {
+    "id": "haneco",
     "title": "Haneco",
     "description": "Haneco Lighting is an Australian specialist LED lighting manufacturer based in Adelaide that supplies to electrical wholesalers Australia-wide.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/haneco.svg",
@@ -88,6 +99,7 @@
     "website": "https://haneco.com.au/"
   },
   {
+    "id": "hellermanntyton",
     "title": "HellermannTyton",
     "description": "HellermannTyton is one of the leading suppliers of products for fastening, fixing, identifying and protecting cables and their connecting components.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/hellermanntyton.png",
@@ -96,6 +108,7 @@
     "website": "https://www.hellermanntyton.com/"
   },
   {
+    "id": "hunter-pacific-international",
     "title": "Hunter Pacific International",
     "description": "Quality and innovation are the philosophical cornerstone underpinning Hunter Pacific International's",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/hunter-pacific.png",
@@ -104,6 +117,7 @@
     "website": "https://www.hunterpacificinternational.com/"
   },
   {
+    "id": "kimberley",
     "title": "Kimberley",
     "description": "Kimberley Accessories",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/kimberley.png",
@@ -112,6 +126,7 @@
     "website": "#"
   },
   {
+    "id": "klein-tools",
     "title": "Klein Tools",
     "description": "Providing professional tradespeople with tools and solutions that enable the highest levels of performance and safety.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/klein.png",
@@ -120,6 +135,7 @@
     "website": "https://www.kleintools.com"
   },
   {
+    "id": "legrand",
     "title": "Legrand",
     "description": "Legrand is a global specialist in products and systems for electrical installations and digital building infrastructures.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/legrand.svg",
@@ -128,6 +144,7 @@
     "website": "https://www.legrand.com.au/"
   },
   {
+    "id": "mms-safety",
     "title": "MMS Safety",
     "description": "With a history that spans three decades, MMS Safety has distinguished itself by its unique business approach based on quality products.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/mms-safety.png",
@@ -136,6 +153,7 @@
     "website": "https://mmssafety.com.au/"
   },
   {
+    "id": "macsim",
     "title": "Macsim",
     "description": "Australia's leading Manufacturer & Supplier of Anchoring, Fasteners & Hardware Products in Australasia.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/macsim.jpg",
@@ -144,6 +162,7 @@
     "website": "https://www.macsim.com.au/"
   },
   {
+    "id": "madison",
     "title": "Madison",
     "description": "Madison Express is a quality cable and connectivity designer, manufacturer, importer and distributor servicing Australia and New Zealand.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/madison.svg",
@@ -152,6 +171,7 @@
     "website": "https://madisonexpress.com.au/"
   },
   {
+    "id": "matchmaster",
     "title": "Matchmaster",
     "description": "Matchmaster is the premium supplier and manufacturer of digital TV antenna systems for domestic and digital TV commercial applications.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/matchmaster.svg",
@@ -160,6 +180,7 @@
     "website": "https://www.matchmaster.com.au/"
   },
   {
+    "id": "nhp",
     "title": "NHP",
     "description": "With over 50 years of electrical and engineering industry excellence and more than 20 branches across Australia and New Zealand, at NHP it is our local people and footprint that helps us understand your specific project needs, no matter how big or small.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/nhp.svg",
@@ -168,6 +189,7 @@
     "website": "https://www.nhp.com.au/"
   },
   {
+    "id": "psa",
     "title": "PSA",
     "description": "PSA Products is a family owned Australian company that began our story in 1985, dedicating ourselves to protecting and saving lives by supplying innovative fire prevention and security products.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/psa.png",
@@ -176,6 +198,7 @@
     "website": "https://www.psaproducts.com.au/"
   },
   {
+    "id": "phoenix-metalform",
     "title": "Phoenix Metalform",
     "description": "At Phoenix Metalform, we’re proud to be one of Australia’s leading providers of sheet metal building products, and sheet metal fabrications in Perth and Western Australia.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/phoenix-metalform.png",
@@ -184,6 +207,7 @@
     "website": "https://www.phoenixmetal.com.au/"
   },
   {
+    "id": "pierlite",
     "title": "Pierlite",
     "description": "Australia and New Zealand’s leading lighting solutions provider for commercial, industrial and healthcare applications.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/pierlite.png",
@@ -192,6 +216,7 @@
     "website": "https://pierlite.com.au/"
   },
   {
+    "id": "redback-ladders",
     "title": "Redback Ladders",
     "description": "Redback Ladders manufacture quality fibreglass ladders at a competitive price.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/redback-ladders.png",
@@ -200,6 +225,7 @@
     "website": "http://www.redbackladders.com.au/"
   },
   {
+    "id": "robus",
     "title": "Robus",
     "description": "ROBUS is a market-leading brand with a range of lighting solutions that are proven and trusted by over 2,000 stockists and thousands of installers internationally.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/robus.png",
@@ -208,6 +234,7 @@
     "website": "https://robus.com.au/"
   },
   {
+    "id": "sal",
     "title": "SAL",
     "description": "SAL’s product offer is an expansive array of LED Lamps, Luminaires and Smart Home Lighting controls.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/sal.jpg",
@@ -216,6 +243,7 @@
     "website": "https://www.sal.net.au/"
   },
   {
+    "id": "schneider",
     "title": "Schneider",
     "description": "Schneider's purpose is to empower all to make the most of our energy and resources, bridging progress and sustainability for all. At Schneider, we call this Life Is On.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/schneider-electric.png",
@@ -224,6 +252,7 @@
     "website": "https://www.se.com/au/en/"
   },
   {
+    "id": "sheffield",
     "title": "Sheffield",
     "description": "Sheffield Group provides complete solutions in cutting tools through its extensive range of knives and blades, and power tool accessories.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/sheffield.png",
@@ -232,6 +261,7 @@
     "website": "https://www.sheffield.com.au/"
   },
   {
+    "id": "thorn",
     "title": "Thorn",
     "description": "Thorn manufactures and supplies dependable, efficient, high-quality lighting.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/thorn.png",
@@ -240,6 +270,7 @@
     "website": "https://www.thornlighting.com.au/en-au"
   },
   {
+    "id": "ventair",
     "title": "Ventair",
     "description": "Ventair Pty Ltd commenced operation in 2006, Ventair is a leading specialist supplier of high quality air movement products in the Australian market.",
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/ventair.jpg",
