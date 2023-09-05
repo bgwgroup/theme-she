@@ -16,7 +16,8 @@
     "dataHtmlBlock3": "&lt;div style=&quot;color:green&quot;&gt;I am green&lt;/div&gt;",
     "dataHtmlBlock4": "&lt;div style=&quot;color:purple&quot;&gt;I am purple&lt;/div&gt;",
     "dataHtmlBlock5": "&lt;div style=&quot;color:gold&quot;&gt;I am gold&lt;/div&gt;",
-    "dataHtmlBlock6": "&lt;div style=&quot;color:aqua&quot;&gt;I am aqua&lt;/div&gt;"
+    "dataHtmlBlock6": "&lt;div style=&quot;color:aqua&quot;&gt;I am aqua&lt;/div&gt;",
+    "keywords":""
   },
   {
     "id": "br-enclosures",
@@ -35,7 +36,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "brooks",
@@ -54,7 +56,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "burndy",
@@ -73,7 +76,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "cabac",
@@ -92,7 +96,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "clevertronics",
@@ -111,7 +116,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "clipsal",
@@ -130,7 +136,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "ezystrut",
@@ -149,7 +156,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "fantech",
@@ -187,7 +195,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "haneco",
@@ -206,7 +215,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "hellermanntyton",
@@ -225,7 +235,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "hunter-pacific-international",
@@ -244,7 +255,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "kimberley",
@@ -263,7 +275,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "klein-tools",
@@ -282,7 +295,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "legrand",
@@ -301,7 +315,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "mms-safety",
@@ -320,7 +335,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "macsim",
@@ -339,7 +355,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "madison",
@@ -358,7 +375,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "matchmaster",
@@ -377,7 +395,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "nhp",
@@ -396,7 +415,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "psa",
@@ -415,7 +435,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "phoenix-metalform",
@@ -434,7 +455,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "pierlite",
@@ -453,7 +475,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "redback-ladders",
@@ -462,7 +485,18 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/cnw/redback-ladders.png",
     "coverImg": "/_ui/responsive/common/images/suppliers/cnw/redback-ladders-cover.jpg",
     "rangeUrl": "/search/?text=Redback+Ladders",
-    "website": "http://www.redbackladders.com.au/"
+    "website": "http://www.redbackladders.com.au/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "robus",
@@ -481,7 +515,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "sal",
@@ -500,7 +535,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "schneider",
@@ -519,7 +555,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "sheffield",
@@ -538,7 +575,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "thorn",
@@ -557,7 +595,8 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   },
   {
     "id": "ventair",
@@ -576,6 +615,7 @@
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
-    "dataHtmlBlock6": ""
+    "dataHtmlBlock6": "",
+    "keywords":""
   }
 ]
